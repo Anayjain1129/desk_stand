@@ -22,3 +22,10 @@ so yea this is what i did now and now im gonna take a break!
 Lapse Link: https://lapse.hackclub.com/timelapse/JOyOcpcG3sEw
 
 **Total time spent: 3 hours 25 mins**
+
+# 14th September: setting up github repo
+okay so like have now exported all the parts in all file formats so yea! and then i wrote the readme and then im justa gonna submit this! 
+
+Lapse Link
+
+**Total time spent: 1 hour**
