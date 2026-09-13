@@ -26,6 +26,6 @@ Lapse Link: https://lapse.hackclub.com/timelapse/JOyOcpcG3sEw
 # 14th September: setting up github repo
 okay so like have now exported all the parts in all file formats so yea! and then i wrote the readme and then im justa gonna submit this! 
 
-Lapse Link
+Lapse Link: https://lapse.hackclub.com/timelapse/s4cvv_Iz7IAz
 
 **Total time spent: 1 hour**
