@@ -7,7 +7,10 @@ My desk is like pretty unorganized and i just wanted a simple solution which ful
 # What was the hardest part?
 Measurements was the part which really made me my work harder i mean like again and again taking measurements and then making the changes and then  making the final the product! so yea
 
-# Features of different parts
+# Features:
+this can make ur desk organized
+hold almost all of my table 
+holds all of the tools together
 
 
 # Images of the Parts
